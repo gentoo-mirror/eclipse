@@ -1,8 +1,0 @@
-dev-java/commons-io 2.2: Utility classes, stream implementations, file filters, endian classes
-dev-java/log4j 1.2.15-r2: A low-overhead robust logging package for Java
-dev-java/lombok-bin 1.16.8 1.16.10: Adds 'handlers' that help reducing boilerplate code with Java
-dev-java/w3c-dom-events 3.0.0: W3C DOM Events - Java Bindings
-dev-java/w3c-dom-smil 1.0.1: W3C DOM SMIL - Java Bindings
-dev-java/w3c-dom-svg 1.1.0: W3C DOM SVG - Java Bindings.
-dev-java/xz-java 1.3: Implementation of xz data compression in pure java
-dev-util/eclipse-sdk-bin 4.5.0-r4 4.5.1 4.5.2-r2 4.6.1a-r1 4.6.2-r1: Eclipse SDK
