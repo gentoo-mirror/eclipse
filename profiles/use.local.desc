@@ -2,3 +2,5 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-util/eclipse-sdk-bin:lombok - Pull in dev-java/lombok, it can still be overwritten on a per-user basis
+dev-util/eclipse-sdk-bin:system-icu - Use the system-wide dev-java/icu4j
