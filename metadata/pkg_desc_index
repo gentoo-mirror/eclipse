@@ -1,5 +1,4 @@
 dev-java/commons-io 2.2: Utility classes, stream implementations, file filters, endian classes
-dev-java/log4j 1.2.15-r2: A low-overhead robust logging package for Java
 dev-java/lombok-bin 1.16.8 1.16.10: Adds 'handlers' that help reducing boilerplate code with Java
 dev-java/w3c-dom-events 3.0.0: W3C DOM Events - Java Bindings
 dev-java/w3c-dom-smil 1.0.1: W3C DOM SMIL - Java Bindings
